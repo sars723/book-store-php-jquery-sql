@@ -1,0 +1,11 @@
+.btn-container button.btn {
+  margin: 1.5em 0.6em !important;
+  padding: 0.5em 2.4em !important;
+}
+.d-flex table {
+  margin: 1em 10em;
+}
+.btn-edit {
+  color: lightsalmon !important;
+  cursor: pointer;
+}
